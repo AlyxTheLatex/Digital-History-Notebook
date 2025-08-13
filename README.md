@@ -4,6 +4,10 @@
 
 [Alan Turing](https://www.nist.gov/blogs/taking-measure/alan-turings-everlasting-contributions-computing-ai-and-cryptography)
 
+[Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)
+
+[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
+
 Timeline: The Rise of the Internet
   # ARPANET ![image](ARPANET.png)
   # Email ![image](EMAIL.jpg)
