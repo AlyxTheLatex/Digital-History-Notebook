@@ -1,0 +1,3 @@
+Alan Turing was one of the begginnings of computing, AI, and cryptographic standards. His main goal was to help build a single and all purpose machine that could solve all problems that can be computed. He eventually led to the creation of the Turing Machine, whihc was a device that had a seperated strip of tape that would store data, then use it for equations and computation. 
+
+[Source](https://www.nist.gov/blogs/taking-measure/alan-turings-everlasting-contributions-computing-ai-and-cryptography)

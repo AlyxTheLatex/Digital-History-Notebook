@@ -1,0 +1,3 @@
+Ada Lovelace was the first person to start contributing to the creation of lanugages and the first basic "computer". She had lead to the creation of different machines and languages by working with mathematicians and engineers. Some of these people's names were Mary Somerville, and Charles Babbage, who was the creator of the Analytical Engine. This was a machine that could be used to compute calculations. 
+
+[Source](https://www.britannica.com/biography/Ada-Lovelace)
