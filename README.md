@@ -6,9 +6,9 @@
 
 Timeline: The Rise of the Internet
   # ARPANET ![image](ARPANET.png)
-  # Email
-  # TCP/IP
-  # DNS
-  # World Wide Web
-  # First Social Media (Facebook/MySpace)
-  # Online entertainment, e-commerce, and cybersecurity importance. 
+  # Email ![image](EMAIL.jpg)
+  # TCP/IP ![image](TCP.webp)
+  # DNS ![image](DNS.png)
+  # World Wide Web ![image](WWW.jpg)
+  # First Social Media (Facebook/MySpace) ![image](FBMS.jpg)
+  # Online entertainment, e-commerce, and cybersecurity importance. ![image](STREAM.png)
