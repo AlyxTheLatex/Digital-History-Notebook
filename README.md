@@ -1,8 +1,8 @@
 # Digital-History-Notebook
 
-[Ada Lovelace](https://www.britannica.com/biography/Ada-Lovelace)
+[Ada Lovelace](ada-lovelace)
 
-[Alan Turing](https://www.nist.gov/blogs/taking-measure/alan-turings-everlasting-contributions-computing-ai-and-cryptography)
+[Alan Turing](alan-turing)
 
 [Bill Gates](bill-gates.md)
 
