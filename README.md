@@ -1,8 +1,8 @@
 # Digital-History-Notebook
 
-[Ada Lovelace](ada-lovelace)
+[Ada Lovelace](ada-lovelace.md)
 
-[Alan Turing](alan-turing)
+[Alan Turing](alan-turing.md)
 
 [Bill Gates](bill-gates.md)
 
