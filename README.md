@@ -8,6 +8,8 @@
 
 [Steve Jobs](steve-jobs.md)
 
+[Tim Berners-Lee](tim-berners-lee.md)
+
 Timeline: The Rise of the Internet
   # ARPANET ![image](ARPANET.png)
   # Email ![image](EMAIL.jpg)
