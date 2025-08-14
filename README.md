@@ -18,3 +18,6 @@ Timeline: The Rise of the Internet
   # World Wide Web ![image](WWW.jpg)
   # First Social Media (Facebook/MySpace) ![image](FBMS.jpg)
   # Online entertainment, e-commerce, and cybersecurity importance. ![image](STREAM.png)
+
+# Final Thoughts
+## I honestly think this was pretty easy, I just ha dto get used to the git commands. I may have had to ask for some help sometimes because they got out of sync and it wouldn't let me repull it but I will figure that out myself eventually. 
