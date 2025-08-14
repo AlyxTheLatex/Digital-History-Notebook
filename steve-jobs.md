@@ -1,3 +1,5 @@
 Steve Jobs was an inventor, business man, and investor who co founded the Apple company we all know today. As well as Bill Gates, he pioneered in the 70s and 80s in the computer revolution. Eventually he left to go work with NeXT, a company that was built for educational computer purposes, but that was extremely unsuccessful. So he came back to Apple as CEO. 
 
 [Source](https://en.wikipedia.org/wiki/Steve_Jobs)
+
+"Peer review: Could you add more details about the first Macintosh computer? "
